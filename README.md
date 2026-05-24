@@ -1,2 +1,3 @@
 - Mod changes the GPU in the F3 debug screen to Ryzen 4070
 - Mod is for Neoforge 26.1.2
+- Mod is fully clientside
